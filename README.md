@@ -21,4 +21,6 @@
 </p>
 
 
-<strong>README curto para rápida apresentação no github, meu portfólio está em desenvolvimento!</strong>
+<strong>README curto para rápida apresentação no github, meu portfólio está em desenvolvimento.</strong>
+
+Novidades em breve!
