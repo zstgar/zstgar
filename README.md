@@ -13,11 +13,11 @@
 </p>
 
 <p align="left">
-  🦄 Estudando as seguintes linguagens no momento: <strong>HTML, CSS, JavaScript, TypeScript, React...</strong>
+   💻 Estudando as seguintes linguagens no momento: <strong>HTML, CSS, JavaScript, TypeScript, e React...</strong>
 </p>
 
 <p align="left">
-  💼 Cursos (em andamento): <strong>Trybe e Origamid.</strong>
+  🗂 Cursos (em andamento): <strong>Trybe e Origamid.</strong>
 </p>
 
 
