@@ -21,4 +21,4 @@
 </p>
 
 
-<strong>Este é um README curto para uma pequena apresentação no github, o meu portfolio está em desenvolvimento!</strong>
+<strong>README curto para rápida apresentação no github, meu portfólio está em desenvolvimento!</strong>
