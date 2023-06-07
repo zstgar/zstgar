@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-  💼 Cursos (em andamento): <strong>Trybe.</strong>
+  💼 Cursos (em andamento): <strong>Trybe e Origamid.</strong>
 </p>
 
 
