@@ -1,4 +1,4 @@
-# Olá! Bem-vindo(a) ao meu perfil 
+# Olá! Bem-vindo(a).
 <div style="display: inline_block" align="left"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -9,7 +9,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="500px" width="500px" align="right">
 
 <p align="left"> 
-  Olá! Meu nome é Lucas, sou <strong>Estudante de Desenvolvimento Full-Stack.</strong><br>
+  Meu nome é Lucas, sou <strong>Estudante de Desenvolvimento Full-Stack.</strong><br>
 </p>
 
 <p align="left">
