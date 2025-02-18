@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-  📖 Cursos (em andamento): <strong>Trybe e Origamid.</strong>
+  Atualmente estagiando em: <strong>3CON IT & Digital, Consultoria e Sistemas</strong>
 </p>
 
 
