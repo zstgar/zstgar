@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-   💻 Estudando as seguintes linguagens no momento: <strong>HTML, CSS, JavaScript, TypeScript, e React...</strong>
+   💻 Estudando as seguintes tecnologias no momento: <strong>Golang, Vue, PostgreSQL...</strong>
 </p>
 
 <p align="left">
